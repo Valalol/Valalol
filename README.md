@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Valalol
-- 👀 I’m interested in lots of things
+- 👋 Hey
 - 🌱 I’m currently working to understand wth is electron, node and some backend/frontend stuff
-- 📫 How to reach me : Valalol#4360
+- 📫 How to reach me : Valalol#4360 on Discord
 
 <!---
 Valalol/Valalol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
