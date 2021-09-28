@@ -1,6 +1,6 @@
 - 👋 Hey
 - 🌱 I’m currently working to understand wth is electron, node and some backend/frontend stuff
-- 📫 How to reach me : Valalol#4360 on Discord
+- 📫 How to reach me : Valalol#1790 on Discord
 
 <!---
 Valalol/Valalol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
